@@ -9,6 +9,9 @@
 #Mentor
 * Maks Roschin
 
+## Открыть сайт
+
+  https://kroki13.github.io/Portfolio/dist/index.html
 
 ## Учебный шаблон проекта Portfolio
 
