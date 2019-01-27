@@ -1,0 +1,29 @@
+section.map
+        .map__google#map
+
+        .map__contacts
+          .user_data
+            .user_data__title
+              .subtitle Контакты
+            .user_data__container
+              ul.user_data__contacts-list
+                  li.user_data__contacts-item
+                    .contacts
+                      svg.contacts__icon
+                        use(xlink:href='./assets/images/icons/sprite.svg#skype')
+                      a(href="skype:live:a76dcced559bf39d").contacts__title live:a76dcced559bf39d
+                  li.user_data__contacts-item
+                    .contacts
+                      svg.contacts__icon
+                        use(xlink:href='./assets/images/icons/sprite.svg#envelope')
+                      a(href="mailto:egiki191977@gmail.com").contacts__title egiki191977@gmail.com
+                  li.user_data__contacts-item
+                    .contacts
+                      svg.contacts__icon
+                        use(xlink:href='./assets/images/icons/sprite.svg#phone')
+                      a(href="tel:+7-931-291-37-00").contacts__title +7-931-291-37-00
+                  li.user_data__contacts-item
+                    .contacts
+                      svg.contacts__icon
+                        use(xlink:href='./assets/images/icons/sprite.svg#map_marker')
+                      a(href="#").contacts__title г.Санкт-Петербург, ул.Катерников 7A

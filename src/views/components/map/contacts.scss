@@ -1,0 +1,19 @@
+.contacts {
+    display: flex;
+}
+
+.contacts__icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    fill: $green;
+}
+
+.contacts__title {
+    text-decoration: none;
+    color: $text-color;
+    transition: 300ms;
+    &:hover {
+        color: $green;
+    }
+}

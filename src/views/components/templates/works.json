@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "title": "Сайт школы LoftSchool",
+        "skills": "Здесь можно пройти обучение на высшем уровне!",
+        "photo": "./assets/images/content/slider1.png",
+        "link": "https://loftschool.com/"
+    },
+    {
+        "id": 2,
+        "title": "Йога",
+        "skills": "Хороший метод расслабиться",
+        "photo": "./assets/images/content/slider2.png",
+        "link": "https://music.yandex.ru/album/2242846/track/19917956"
+    },
+    {
+        "id": 3,
+        "title": "Не сайт мебели",
+        "skills": "Хорошая музыка",
+        "photo": "./assets/images/content/slider3.png",
+        "link": "https://music.yandex.ru/album/2242846/track/19917956"
+    }
+]
