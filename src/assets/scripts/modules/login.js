@@ -65,7 +65,6 @@ loginBtn.addEventListener('click', function(e) {
     }
 })
 
-
 authBtn.forEach(function(authBtn) {
     authBtn.addEventListener('click', function(e) {
         e.preventDefault();
