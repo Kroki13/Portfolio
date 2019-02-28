@@ -41,9 +41,11 @@
 }
 
 .blog-menu__list {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    @include tablets {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%)
+    }
 }
 
 .blog-menu__item {
